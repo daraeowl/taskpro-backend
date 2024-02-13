@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sb4Ar+2g4STB07goeLxSrLeyVRT5UIbDIbHYHO0HpTI=",
+  "Source": "taskpro-api",
+  "BasePath": "_content/taskpro-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
