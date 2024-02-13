@@ -11,7 +11,7 @@ Para empezar a trabajar en el proyecto backend, sigue estos pasos:
 1. Clona este repositorio en tu máquina local.
 2. Navega al directorio del proyecto backend.
 3. Abre la solución en Visual Studio o cualquier otro IDE compatible con .NET Core.
-4. Compila y ejecuta la solución.
+4. Compila y ejecuta la solución. ( comando dotnet watch run )
 
 ## Uso
 
