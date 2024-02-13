@@ -31,3 +31,52 @@ Si deseas contribuir al proyecto backend, sigue estos pasos:
 5. Abre un pull request en este repositorio.
 
 
+**Backend API Endpoints:**
+
+**AspNetUsers:**
+
+- **GET** `/api/user`
+  - Obtiene todos los usuarios.
+
+- **GET** `/api/user/{id}`
+  - Obtiene un usuario específico por su ID.
+
+- **PUT** `/api/user/{id}`
+  - Actualiza la información de un usuario específico por su ID.
+
+- **DELETE** `/api/user/{id}`
+  - Elimina un usuario específico por su ID.
+
+**Project:**
+
+- **GET** `/api/project`
+  - Obtiene todos los proyectos.
+
+- **POST** `/api/project`
+  - Crea un nuevo proyecto.
+
+- **GET** `/api/project/{id}`
+  - Obtiene un proyecto específico por su ID.
+
+- **PUT** `/api/project/{id}`
+  - Actualiza la información de un proyecto específico por su ID.
+
+- **DELETE** `/api/project/{id}`
+  - Elimina un proyecto específico por su ID.
+  
+**Task:**
+
+- **GET** `/api/task`
+  - Obtiene todas las tareas.
+
+- **POST** `/api/task`
+  - Crea una nueva tarea.
+
+- **GET** `/api/task/{id}`
+  - Obtiene una tarea específica por su ID.
+
+- **PUT** `/api/task/{id}`
+  - Actualiza la información de una tarea específica por su ID.
+
+- **DELETE** `/api/task/{id}`
+  - Elimina una tarea específica por su ID.
